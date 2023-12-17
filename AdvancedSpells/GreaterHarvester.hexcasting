@@ -1,0 +1,160 @@
+// cannot break blocks out of range
+// add greater sentinel code to extend range
+
+Mind's Reflection
+Stadiometer's Purification
+Numerical Reflection: 1.5
+Equality Distillation
+{
+	Numerical Reflection: 2
+	Flock's Gambit
+	Mind's Reflection
+	Compass' Purification
+	Mind's Reflection
+	Alidade's Purification
+	Scout's Distillation
+	Augur's Purification
+	{
+		Numerical Reflection: 0
+		Mind's Reflection
+		Compass' Purification
+		Mind's Reflection
+		Alidade's Purification
+		Scout's Distillation
+		Chronicler's Purification
+		Surgeon's Exaltation
+	}
+	{
+		Mind's Reflection
+		Compass' Purification
+		Mind's Reflection
+		Alidade's Purification
+		Archer's Distillation
+		Augur's Purification
+		{
+			Gemini Decomposition
+			Numerical Reflection: 1
+			Selection Distillation
+			Mind's Reflection
+			Compass' Purification
+			Mind's Reflection
+			Alidade's Purification
+			Archer's Distillation
+			Sorter's Purification
+			Integration Distillation
+			Numerical Reflection: 1
+			Jester's Gambit
+			Surgeon's Exaltation
+		}
+		{
+			Numerical Reflection: 1
+			Vacant Reflection
+			Surgeon's Exaltation
+		}
+		Augur's Exaltation
+		Hermes' Gambit
+	}
+	Augur's Exaltation
+	Hermes' Gambit
+	Flock's Disintegration
+}
+{
+	Vacant Reflection
+	Huginn's Gambit
+	Mind's Reflection
+	Compass' Purification
+	Gemini Decomposition
+	Vector Reflection -Y
+	Numerical Reflection: 100
+	Numerical Reflection: 20
+	Additive Distillation
+	Numerical Reflection: 8
+	Additive Distillation
+	Multiplicative Distillation
+	Additive Distillation
+	Jester's Gambit								// player pos - 128y, current pos
+	{													// player pos - 128y, current pos, spell
+		Numerical Reflection: -2			// player pos - 128y, current pos, spell, -2
+		Fisherman's Gambit					// spell, player pos - 128y, current pos
+		Numerical Reflection: 2				// spell, player pos - 128y, current pos, 2
+		Flock's Gambit							// spell, [player pos - 128y, current pos]
+		Gemini Decomposition				// spell, [player pos - 128y, current pos], [player pos - 128, current pos]
+		Flock's Disintegration				// spell, [player pos - 128y, current pos], player pos - 128, current pos
+		Equality Distillation					// spell, [player pos - 128y, current pos], bool
+		Negation Purification					// spell, [player pos - 128y, current pos], bool
+		Jester's Gambit							// spell, bool, [player pos - 128, current pos]
+		Flock's Disintegration				// spell, bool, player pos - 128, current pos
+		Rotation Gambit						// spell, player pos - 128y, current pos, bool
+		{												// spell, player pos - 128y, current pos
+			Vector Reflection +Y				// spell, player pos - 128y, current pos, (0, 1, 0)
+			Sub. Distillation						// spell, player pos - 128y, new current pos
+			Gemini Decomposition			// spell, player pos - 128y, new current pos, new current pos
+			Muninn's Reflection				// spell, player pos - 128y, new current pos, new current pos, [many]
+			Jester's Gambit						// spell, player pos - 128y, new current pos, [many], new current pos
+			Integration Distillation			// spell, player pos - 128y, new current pos, [many, new current pos]
+			Huginn's Gambit					// spell, player pos - 128y, new current pos
+			Numerical Reflection: 2			// spell, player pos - 128y, new current pos, 2
+			Fisherman's Gambit				// player pos - 128y, new current pos, spell
+			Gemini Decomposition			// player pos - 128y, new current pos, spell, spell
+			Hermes' Gambit					// player pos - 128y, new current pos, spell
+		}
+		{
+			Charon's Gambit
+		}
+		Augur's Exaltation
+		Hermes' Gambit
+	}
+	Gemini Decomposition
+	Hermes' Gambit
+	Numerical Reflection: 3
+	Flock's Gambit
+	Novice's Gambit
+	Muninn's Reflection // redundant
+	Huginn's Gambit // redundant
+	Dioscuri Gambit
+	Muninn's Reflection
+	{
+		Jester's Gambit
+		{
+			Jester's Gambit
+			Sorter's Purification
+			Equality Distillation
+			{
+				True Reflection
+			}
+			{
+				Flock's Reflection
+				Flock's Gambit
+				Novice's Gambit
+			}
+			Augur's Exaltation
+			Hermes' Gambit
+		}
+		Jester's Gambit
+		Thoth's Gambit
+		Augur's Purification
+		{
+			Gemini Decomposition
+			Break Block
+			Numerical Reflection: 20
+			Zone Distillation: Item
+			{
+				Gate's Opening
+			}
+			Jester's Gambit
+			Thoth's Gambit
+			Novice's Gambit
+		}
+		{
+			Novice's Gambit
+		}
+		Augur's Exaltation
+		Hermes' Gambit
+	}
+	Jester's Gambit
+	Thoth's Gambit
+	Novice's Gambit
+	Gate's Closing
+}
+Augur's Exaltation
+Hermes' Gambit
