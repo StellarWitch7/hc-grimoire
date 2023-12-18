@@ -99,6 +99,7 @@
 	Vector Reflection +Z
 	Additive Distillation
 	Break Block
+	Break Block
 	Gemini Decomposition
 	Vector Reflection -Z
 	Additive Distillation
@@ -106,7 +107,6 @@
 	Gemini Decomposition
 	Vector Reflection +Z
 	Additive Distillation
-	Break Block
 	Break Block
 	Break Block
 }
