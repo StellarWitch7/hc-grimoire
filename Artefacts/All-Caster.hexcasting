@@ -3,7 +3,7 @@ Classifier's Purification
 Vacant Reflection
 Classifier's Purification
 Equality Distillation
-{
+Consideration: {
 	Scribe's Reflection
 	Numerical Reflection: 3
 	Gemini Gambit
@@ -18,7 +18,7 @@ Equality Distillation
 	Numerical Reflection: 2
 	Equality Distillation
 	Conjunction Distillation
-	{
+	Consideration: {
 		Retrograde Purification
 		Flock's Disintegration
 		Integration Distillation
@@ -33,34 +33,34 @@ Equality Distillation
 		Numerical Reflection: 2
 		Flock's Gambit
 		Scribe's Gambit
-	}
-	{
+	Consideration: }
+	Consideration: {
 		Hermes' Gambit
-	}
+	Consideration: }
 	Augur's Exaltation
 	Hermes' Gambit
-}
-{
+Consideration: }
+Consideration: {
 	Scribe's Reflection
 	Gemini Decomposition
 	Mind's Reflection
 	Stadiometer's Purification
 	Numerical Reflection: 1.5
 	Equality Distillation
-	{
+	Consideration: {
 		Mind's Reflection
-	}
-	{
+	Consideration: }
+	Consideration: {
 		Mind's Reflection
 		Compass' Purification
 		Mind's Reflection
 		Alidade's Purification
 		Scout's Distillation
-	}
+	Consideration: }
 	Augur's Exaltation
 	Hermes' Gambit
 	Gate's Opening
 	Gate's Closing
-}
+Consideration: }
 Augur's Exaltation
 Hermes' Gambit

@@ -1,11 +1,11 @@
 Flock's Reflection
 Augur's Purification
-{
+Consideration: {
 	Mind's Reflection
 	Stadiometer's Purification
 	Numerical Reflection: 1.5
 	Equality Distillation
-	{
+	Consideration: {
 		Novice's Gambit
 		Mind's Reflection
 		Compass' Purification
@@ -13,8 +13,8 @@ Augur's Purification
 		Alidade's Purification
 		Archer's Distillation
 		Sorter's Purification
-	}
-	{
+	Consideration: }
+	Consideration: {
 		Gemini Decomposition
 		Mind's Reflection
 		Compass' Purification
@@ -25,25 +25,25 @@ Augur's Purification
 		Rotation Gambit II
 		Sorter's Purification
 		Equality Distillation
-		{
+		Consideration: {
 			Break Block
-		}
-		{
+		Consideration: }
+		Consideration: {
 			Novice's Gambit
-		}
+		Consideration: }
 		Augur's Exaltation
 		Hermes' Gambit
-	}
+	Consideration: }
 	Augur's Exaltation
 	Hermes' Gambit
-}
-{
+Consideration: }
+Consideration: {
 	Mind's Reflection
 	Compass' Purification
 	Mind's Reflection
 	Alidade's Purification
 	Archer's Distillation
 	Sorter's Purification
-}
+Consideration: }
 Augur's Exaltation
 Hermes' Gambit
