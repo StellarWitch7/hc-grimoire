@@ -1,0 +1,70 @@
+Mind's Reflection
+Compass' Purification
+Mind's Reflection
+Alidade's Purification
+Numerical Reflection: 2
+Multiplicative Distillation
+Additive Distillation
+Numerical Reflection: 3
+Mind's Reflection
+Alidade's Purification
+Axial Purification
+Gemini Decomposition
+Vector Disintegration
+Rotation Gambit
+Vector Exaltation
+Gemini Decomposition
+Rotation Gambit
+Division Distillation
+Rotation Gambit
+Gemini Decomposition
+Numerical Reflection: 2
+Power Distillation
+Gemini Decomposition
+Huginn's Gambit
+Gemini Gambit
+Muninn's Reflection
+Flock's Gambit
+Numerical Reflection: 0
+Huginn's Gambit
+Consideration: {
+    Gemini Decomposition
+    Gemini Decomposition
+    Numerical Reflection: 2
+    Division Distillation
+    Floor Purification
+    Jester's Gambit
+    Muninn's Reflection
+    Jester's Gambit
+    Modulus Distillation
+    Jester's Gambit
+    Subtractive Distillation
+    Jester's Gambit
+    Gemini Decomposition
+    Numerical Reflection: 2
+    Division Distillation
+    Floor Purification
+    Jester's Gambit
+    Muninn's Reflection
+    Jester's Gambit
+    Division Distillation
+    Floor Purification
+    Jester's Gambit
+    Subtractive Distillation
+    Rotation Gambit
+    Multiplicative Distillation
+    Rotation Gambit II
+    Multiplicative Distillation
+    Additive Distillation
+    Additive Distillation
+    Conjure Block // this will fail if a block already exists, ending the loop. is there no way to check? 
+    Muninn's Reflection
+    Numerical Reflection: 1
+    Additive Distillation
+    Huginn's Gambit
+Consideration: }
+Jester's Gambit
+Thoth's Gambit
+
+// credit to enjarai for https://github.com/enjarai/hex-grimoire/blob/main/configurable-hammer.hexpattern
+// as it was the base to this spell
